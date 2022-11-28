@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
 
         lifecycleScope.launchWhenCreated {
             try{
-                val response = RetrofitInstance.api.searchMovie("b9ec1524bdab4b21e25aa0b90373cbfc",
+                val response = RetrofitInstance.api.searchMovie(apiKey,
                 binding.idMovieSearchEt.text.toString(),
                     1)
 
