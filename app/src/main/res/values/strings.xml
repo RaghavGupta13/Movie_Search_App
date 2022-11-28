@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Search</string>
+    <string name="search_for_a_movie">Search for a movie</string>
+
+    <!-- String resources for the movie detail fragment -->
+    <string name="search">Search</string>
+    <string name="title">Title:</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date:</string>
+    <string name="release_date_of_the_movie">Release Date of the movie</string>
+    <string name="total_votes">Total votes:</string>
+    <string name="number_of_votes">Number of votes</string>
+    <string name="overview">Overview:</string>
+    <string name="description_of_the_movie">This is a movie based on a best selling novel of bla bla bla. The plot of this movie is bla bla bla</string>
+
+    <!-- Api key -->
+    <string name="api_key">b9ec1524bdab4b21e25aa0b90373cbfc</string>
+
+</resources>
