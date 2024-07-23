@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    //add a comment
     private fun setupSearchButton(){
 
         binding.idSearchBtn.setOnClickListener {
