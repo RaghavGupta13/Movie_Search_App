@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
     //add a comment
 
     //This is a test- adding line 35
+    //This is another test -adding line 36
     private fun setupSearchButton(){
 
         binding.idSearchBtn.setOnClickListener {
