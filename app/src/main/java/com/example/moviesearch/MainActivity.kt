@@ -108,8 +108,4 @@ class MainActivity : AppCompatActivity() {
         //This is test2
     }
 
-    private fun abc2(){
-        //this is another test func
-    }
-
 }
