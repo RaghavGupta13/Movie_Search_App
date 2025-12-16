@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 //        binding.idToolbar.title = "Movie Search"
         //setSupportActionBar(binding.idToolbar)
         setupSearchButton()
-        //setupBackButton()
+        setupBackButton()
 
     }
 
@@ -43,6 +43,10 @@ class MainActivity : AppCompatActivity() {
 
 
         }
+    }
+
+    private fun setupBackButton(){
+
     }
 
 //    private fun setupBackButton(){
