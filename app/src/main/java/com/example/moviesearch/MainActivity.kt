@@ -24,8 +24,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
 //        binding.idToolbar.title = "Movie Search"
-//        setSupportActionBar(binding.idToolbar)
-        //setupSearchButton()
+        //setSupportActionBar(binding.idToolbar)
+        setupSearchButton()
         //setupBackButton()
 
     }
